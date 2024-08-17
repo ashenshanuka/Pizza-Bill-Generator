@@ -1,0 +1,2 @@
+public class PizzaMania {
+}
